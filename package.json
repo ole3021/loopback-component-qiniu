@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-storage-qiniu",
+  "name": "loopback-component-qiniu",
   "version": "0.0.1",
   "description": "Loopback storage component for Qiniu",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ole3021/loopback-component-storage-qiniu.git"
+    "url": "git+https://github.com/ole3021/loopback-component-qiniu.git"
   },
   "keywords": [
     "Loopback",
@@ -18,9 +18,9 @@
   "author": "ole3021",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ole3021/loopback-component-storage-qiniu/issues"
+    "url": "https://github.com/ole3021/loopback-component-qiniu/issues"
   },
-  "homepage": "https://github.com/ole3021/loopback-component-storage-qiniu#readme",
+  "homepage": "https://github.com/ole3021/loopback-component-qiniu#readme",
   "dependencies": {
     "axios": "^0.15.2",
     "busboy": "^0.2.13",
